@@ -14,6 +14,7 @@ namespace SimpleAuth {
 					value = "Bearer";
 				tokenType = value;
 			}
+			
 		}
 		public string IdToken { get; set; }
 
